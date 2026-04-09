@@ -18,6 +18,6 @@ VibraTrack is a real-time monitoring system designed to detect and estimate occu
 ## Key Results
 The prototype successfully separates vibrations from tools such as grinders, drills, and sanders from standard movements like walking. Validation testing showed 100% specificity in rejecting motion artifacts, ensuring that exposure accumulation is driven strictly by tool engagement.
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 Note: This repository is currently under construction as source files are being migrated from development environments. For a deep dive into the system's architecture, signal processing pipeline, and validation results, the full project report is available in the repository.
