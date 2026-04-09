@@ -15,5 +15,5 @@ VibraTrack is a real-time monitoring system designed to detect and estimate occu
 - Mobile App: Developed for iOS using Swift, SwiftUI, and UIKit, leveraging the MovesenseMds framework for sensor communication.
 - Analysis & Validation: Utilized Python for offline signal inspection, spectral analysis (FFT/Welch PSD), and data augmentation to validate system robustness.
 
-## Key Results
+## Key Results
 The prototype successfully separates vibrations from tools such as grinders, drills, and sanders from standard movements like walking. Validation testing showed 100% specificity in rejecting motion artifacts, ensuring that exposure accumulation is driven strictly by tool engagement.
